@@ -6,10 +6,6 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- *
- * @author 
- */
 public class FrameServer extends javax.swing.JFrame {
     static ServerSocket ssckt;
     static Socket sckt;

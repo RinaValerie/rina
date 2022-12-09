@@ -7,10 +7,6 @@ import java.io.IOException;
 import java.net.Socket;
 import javax.swing.JTextField;
 
-/**
- *
- * @author 
- */
 public class FrameClient extends javax.swing.JFrame {
     static Socket sckt;
     static DataInputStream dtinpt;
